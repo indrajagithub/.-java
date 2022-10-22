@@ -1,5 +1,4 @@
-# newcodingpage
-new repo
+java 1
 package com;
 class Problem4 {
 	public static void main(String[] args) {
